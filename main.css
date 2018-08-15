@@ -1,0 +1,24 @@
+/* alert{
+    transition: 500ms ease-in-out;
+} */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    box-sizing: border-box;
+    width: 100vw;
+    height: auto;
+    background: #f1e0d7;
+    margin: 0;
+    padding: 20px;
+    color: #1b1b1b;
+    font-size: 24px;
+    font-family: sans-serif;
+}
+
+h1{
+    margin: 0 auto;
+    text-align: center;
+}
