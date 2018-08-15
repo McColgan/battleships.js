@@ -1,6 +1,8 @@
-let loc1 = 3;
-let loc2 = 4;
-let loc3 = 5;
+let randomLoc = Math.floor(Math.random() * 5);
+
+let loc1 = randomLoc;
+let loc2 = loc1 + 1;
+let loc3 = loc2 + 1;
 
 let currentGuess;
 
